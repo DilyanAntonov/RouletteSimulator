@@ -1,0 +1,21 @@
+{
+"1":["red", "odd", "low", "one"], "2":["black","even", "low", "two"],
+"3":["red", "odd", "low", "three"], "4":["black","even", "low", "four"],
+"5":["red", "odd", "low", "five"], "6":["black","even", "low", "six"],
+"7":["red", "odd", "low", "seven"], "8":["black","even", "low", "eight"],
+"9":["red", "odd", "low", "nine"], "10":["black","even", "low", "ten"],
+"11":["black", "odd", "low", "eleven"], "12":["red", "even", "low", "twelve"],
+"13":["black", "odd", "low", "thirteen"], "14":["red", "even", "low", "fourteen"],
+"15":["black", "odd", "low", "fifteen"], "16":["red", "even", "low", "sixteen"],
+"17":["black", "odd", "low", "seventeen"], "18":["red", "even", "low", "eighteen"],
+"19":["red", "odd", "high", "nineteen"], "20":["black","even", "high", "twenty"],
+"21":["red", "odd", "high", "twenty-one"], "22":["black","even", "high", "twenty-two"],
+"23":["red", "odd", "high", "twenty-three"], "24":["black","even", "high", "twenty-four"],
+"25":["red", "odd", "high", "twenty-five"], "26":["black","even", "high", "twenty-six"],
+"27":["red", "odd", "high", "twenty-seven"], "28":["black","even", "high", "twenty-eight"],
+"29":["black", "odd", "high", "twenty-nine"], "30":["red", "even", "high", "thirty"],
+"31":["black", "odd", "high", "thirty-one"], "32":["red", "even", "high", "thirty-two"],
+"33":["black", "odd", "high", "thirty-three"], "34":["red", "even", "high", "thirty-four"],
+"35":["black", "odd", "high", "thirty-five"],"36":["red", "even", "high", "thirty-six"],
+"0":["green", "none", "none", "zero"]
+}
