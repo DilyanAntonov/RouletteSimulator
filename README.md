@@ -1,4 +1,4 @@
-# RouletteSimulator
+# Roulette Simulator
 The project for the final exam at the **Math for Developers** course at [SoftUni](https://softuni.bg)
 
 [Certificate](https://softuni.bg/certificates/details/66983/ff39aff9)
